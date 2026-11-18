@@ -5,6 +5,7 @@
 > **書籍の正誤表は[こちら](./docs/guides/errata.md)です。**
 > **仕様駆動開発で大切なやり取りの過程も公開しています。**
 > 外部APIの更新にどう対応したかは、[#98](https://github.com/elvezjp/SDD/issues/98) から調査、判断、修正の流れをたどれます。
+> 仕様駆動開発の研修用。README修正
 
 # SDD (Spec-Driven Development) Practice Repository
 
